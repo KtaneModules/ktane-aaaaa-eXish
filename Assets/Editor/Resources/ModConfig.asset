@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: AAAAA
+  title: AAAAA
+  author: Pruz, Devster_LP, eXish
+  description: "The beginning and\u2026 the beginning...\n\nHTML: https://ktane.timwi.de/HTML/AAAAA.html\nPDF:
+    https://ktane.timwi.de/PDF/AAAAA.pdf\n\nAAAAA (AAAAA) v1.0.0\nModule and Idea
+    by Infernal Online\r\nMod Implemented by Devster_LP\nMaintained by eXish\nTwitch
+    Plays supported"
+  version: 1.0.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 139f8378ebd47fe449bbb35a2fbe6443, type: 3}
