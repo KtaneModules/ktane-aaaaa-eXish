@@ -16,8 +16,7 @@ MonoBehaviour:
   author: Pruz, Devster_LP, eXish
   description: "The beginning and\u2026 the beginning...\n\nHTML: https://ktane.timwi.de/HTML/AAAAA.html\nPDF:
     https://ktane.timwi.de/PDF/AAAAA.pdf\n\nAAAAA (AAAAA) v1.0.0\nModule and Idea
-    by Infernal Online\r\nMod Implemented by Devster_LP\nMaintained by eXish\nTwitch
-    Plays supported"
+    by Pruz\nMod Implemented by Devster_LP\nMaintained by eXish\nTwitch Plays supported"
   version: 1.0.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 139f8378ebd47fe449bbb35a2fbe6443, type: 3}
