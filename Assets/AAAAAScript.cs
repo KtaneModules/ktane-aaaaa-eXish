@@ -46,15 +46,15 @@ public class AAAAAScript : MonoBehaviour {
 
     void OnActivate()
     {
-        if (TwitchPlaysActive)
+        /**if (TwitchPlaysActive)
             stageCt = 2;
-        else
+        else*/
             stageCt = 10;
     }
 
     void OnEnd(bool n)
     {
-        bombSolved = true;
+        //bombSolved = true;
         if (n)
         {
             StopAllCoroutines();
@@ -170,7 +170,7 @@ public class AAAAAScript : MonoBehaviour {
     }
 
     //twitch plays
-    private bool bombSolved = false;
+    /**private bool bombSolved = false;
     private bool TwitchPlaysActive;
     #pragma warning disable 414
     private readonly string TwitchHelpMessage = @"!{0} press <#> [Presses the letter in the specified position] | Valid positions are 1-5 from left to right | On Twitch Plays instead of the letters changing every second and requiring 10 presses the letters will change every 8 seconds and require 2 presses";
@@ -243,5 +243,5 @@ public class AAAAAScript : MonoBehaviour {
                 buttons[displays[dispIndex].IndexOf("A")].OnInteract();
             }
         }
-    }
+    }*/
 }
